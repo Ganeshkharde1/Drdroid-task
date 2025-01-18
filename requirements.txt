@@ -1,1 +1,7 @@
-
+os
+pandas
+plotly
+torch
+streamlit
+langchain
+wordcloud
